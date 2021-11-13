@@ -1,5 +1,5 @@
 <?php
 echo "Hi";
-echo "Bye"
+echo "Bye";
 echo "Quỳnh này haha";
 ?>
